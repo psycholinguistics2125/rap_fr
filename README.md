@@ -1,4 +1,4 @@
-# rap_fr
+# RAP FR (rap_fr)
 Projet proposant d'analyser le rap Français de manière exhaustive.
 
 ## Construction de la base de données
